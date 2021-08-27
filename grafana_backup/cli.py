@@ -9,8 +9,8 @@ docstring = """
 {0} {1}
 
 Usage:
-    grafana-backup save [--config=<filename>] [--components=<folders,dashboards,datasources,alert-channels,organizations,users>] [--no-archive]
-    grafana-backup restore <archive_file> [--config=<filename>] [--components=<folders,dashboards,datasources,alert-channels,organizations,users>]
+    grafana-backup save [--config=<filename>] [--components=<folders,dashboards,datasources,alert-channels,organizations,users>]
+    grafana-backup restore [--config=<filename>] [--components=<folders,dashboards,datasources,alert-channels,organizations,users>]
     grafana-backup [--config=<filename>]
     grafana-backup -h | --help
     grafana-backup --version
