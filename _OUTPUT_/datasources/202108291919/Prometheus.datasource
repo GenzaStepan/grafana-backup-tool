@@ -1,0 +1,1 @@
+{"name": "Prometheus", "database": "", "url": "http://localhost:9090", "basicAuth": false, "jsonData": {}, "access": "proxy", "readOnly": false, "typeLogoUrl": "public/app/plugins/datasource/prometheus/img/prometheus_logo.svg", "orgId": 1, "user": "", "password": "", "type": "prometheus", "id": 2, "isDefault": true}
