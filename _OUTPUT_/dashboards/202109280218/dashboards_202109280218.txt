@@ -1,0 +1,13 @@
+uid/hb7fSE0Zz	1   Node Exporter for Prometheus Dashboard EN v20200628
+uid/9Ono4bxGk	API
+uid/nqLtVbbMz	API реквесты
+uid/cNVztkOGz	Node Exporter Server Metrics
+uid/TsEkRYJMz	Акторная система
+uid/nDLBbsJMz	Джобы
+uid/XRoFKL1Mk	Интеграционные события
+uid/isBzFY1Mz	Квери
+uid/rLzyHY1Mz	Клиентские вызовы
+uid/SjcGbsJGz	Поды
+uid/GdwzILJGk	Сервисные вызовы
+uid/tYcElbAMz	Сервисы
+uid/tYcElbAMzf	Хэндлеры
